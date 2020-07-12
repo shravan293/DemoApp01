@@ -2,6 +2,7 @@ public void test
 {
 public void test01()
 {
+  int i=10;
  //logic goes here
 }
 }
